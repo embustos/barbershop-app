@@ -6,5 +6,3 @@ export interface Barber {
     imageUrl?: string;
     isWorking: boolean;
 }
-
-
