@@ -1,4 +1,4 @@
-import { Appointment } from "@/app/types/appointments";
+import { Appointment } from "./appointments";
 
 export interface Customer {
     id: string;
